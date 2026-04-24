@@ -33,7 +33,7 @@
     "eslint-plugin-import": "^2.16.0",
     "handlebars-cmd": "^0.1.4",
     "lerna": "3.10.7",
-    "node-sass": "^4.11.0",
+    "node-sass": "^9.0.0",
     "postcss-cli": "^6.1.1",
     "sassdoc": "^2.5.1",
     "stylelint": "^9.10.1",
